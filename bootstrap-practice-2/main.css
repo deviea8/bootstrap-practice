@@ -1,0 +1,58 @@
+
+
+.logo-bar {
+  text-align: center;
+}
+
+
+.jumbotron {
+    background-image: url(bar.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 350px;
+}
+
+
+.thumbnail img {
+  height: 200px;
+  width: 100%;
+}
+
+
+ul {
+  text-align: center;
+}
+
+.navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+}
+
+.logo-bar img {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 150px;
+}
+
+.navbar  {
+    text-align: center;
+    background: #ffe6cc;
+}
+
+
+.footer li {
+  display:inline-block;
+  margin: 30px 10px 0 10px;
+}
+
+button {
+  background-color: black;
+}
+
+* {
+  font-family: 'Karla', sans-serif;
+}
+
+h1 {
+  color: #b35c00;
+}
